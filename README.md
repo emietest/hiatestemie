@@ -1,8 +1,8 @@
-# Helpful Info: `__NAME_OF_INSTANCE__`
+# Helpful Info: `HIA Test Emie'
 
 This repository contains deployment details of a [Helpful Information App](https://github.com/rodekruis/helpful-information)-instance.
 
-Public URL: <https://__PUBLIC_URL_OF_INSTANCE__>
+Public URL: [<https://__PUBLIC_URL_OF_INSTANCE__>](https://emietest.github.io/hiatestemie/)
 
 ---
 
